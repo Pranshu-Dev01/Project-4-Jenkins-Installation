@@ -26,5 +26,6 @@ Learning the basics of Jenkins with the help of flask library, we created a simp
 6. double checked Script Path name is the same in Jenkins and GitHub
 7. Saved the Configurations
 8. Clicked build now
+
 **Output:-**
  ![380430128-dde8ef2d-2056-4231-8621-c1a3ce70ed0c](https://github.com/user-attachments/assets/ed2971bf-b47d-4949-9bc9-a585e559031a)
